@@ -57,6 +57,4 @@ DiscordMessageCreationFunction({
 ---
 
 ## Result
-```
-[<img src="assets/Screenshot.png">](#)
-```
+<img src="assets/Screenshot.png">
